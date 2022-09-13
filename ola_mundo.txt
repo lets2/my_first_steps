@@ -1,0 +1,4 @@
+Esse arquivo tem o intuito
+de tentar a primeira mudança e 
+adicionar no meu repositorio remoto
+chamado my_first_steps
